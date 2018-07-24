@@ -1,0 +1,24 @@
+{
+    "success": true,
+    "users": [{
+        "userID": 1,
+        "name": "Вася",
+        "surname": "Иванов"
+    }, {
+        "userID": 2,
+        "name": "Петя",
+        "surname": "Федоров"
+    }, {
+        "userID": 3,
+        "name": "Вова",
+        "surname": "Кузнецов"
+    }, {
+        "userID": 4,
+        "name": "Саша",
+        "surname": "Сидоров"
+    }, {
+        "userID": 5,
+        "name": "Дима",
+        "surname": "Сидоров"
+    }]
+}
